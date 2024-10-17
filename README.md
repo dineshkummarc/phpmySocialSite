@@ -1,1 +1,2 @@
-# SocialNetworkingSite_PHP
+# phpmySocialSite
+formerly SocialNetworkingSite_PHP
